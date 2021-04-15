@@ -1,4 +1,4 @@
-const basicOperations = require('@testing-lerna/basics-operations');
+const basicOperations = require('@demo-lerna/basics-operations');
 
 function factorial(a) {  
   if (a === 1) return 1;
