@@ -6,8 +6,8 @@ function substract2(a) {
   return a - 2;
 }
 
-function multiply(a, b) {
-  return a * b;
+function multiply2(a) {
+  return a * 2;
 }
 
 function divide(a, b) {
@@ -16,5 +16,5 @@ function divide(a, b) {
 
 exports.add = add;
 exports.substract2 = substract2;
-exports.multiply = multiply;
+exports.multiply2 = multiply2;
 exports.divide = divide;
