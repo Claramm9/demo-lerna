@@ -2,7 +2,7 @@ const basicOperations = require('@demo-lerna/basics-operations');
 
 function factorial(a) {  
   if (a === 1) return 1;
-  return basicOperations.multiply (a, factorial(a -1));
+  return basicOperations.multiply (a, factorial(a -2));
 }
 
 function summation(value, times) {
