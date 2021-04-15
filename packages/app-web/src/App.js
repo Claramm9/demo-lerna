@@ -4,7 +4,7 @@ const basicsOperations = require('@demo-lerna/basics-operations');
 
 const App = () => (
   <div className="App">
-    <span>Operation 2*2 equals {basicsOperations.multiply(2, 2)}</span>
+    <span>Operation 2-2 equals {basicsOperations.substract(2, 2)}</span>
   </div>
 );
 
