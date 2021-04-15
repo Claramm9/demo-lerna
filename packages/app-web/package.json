@@ -1,7 +1,7 @@
 {
   "name": "app-web",
   "version": "2.1.1",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@demo-lerna/advanced-operations": "^2.1.1",
     "@demo-lerna/basics-operations": "^2.1.1",
