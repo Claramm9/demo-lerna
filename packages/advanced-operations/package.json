@@ -1,6 +1,6 @@
 {
   "name": "@demo-lerna/advanced-operations",
-  "version": "2.1.1",
+  "version": "3.0.0",
   "description": "",
   "main": "advanced.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@demo-lerna/basics-operations": "^2.1.1"
+    "@demo-lerna/basics-operations": "^3.0.0"
   }
 }
